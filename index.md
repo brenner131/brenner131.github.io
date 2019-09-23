@@ -4,16 +4,16 @@
 
 ### Research and Data Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Using Clustering Methods to Characterize Player Types for Executive Function Training Games](/sample_page)
+<img src="images/Clust3.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mapping Ticket Sales in Brooklyn](/sample_page)
+<img src="images/map_legend.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visitor Research at the Brooklyn Museum](/sample_page)
+<img src="images/TimeViewingPanels.png?raw=true"/>
 
 ---
 
@@ -22,6 +22,7 @@
 - [Production with Vrai Pictures](https://www.vrai.pictures/)
 - [Stage Management on the Gowanus Canal](http://drearycoast.org)
 - [Research with Holojam in Wonderland](https://futureofstorytelling.org/project/holojam-in-wonderland)
+- [Production Assistant with Third Rail Projects](https://thirdrailprojects.com/thegrandparadise#tgppage)
 - [Fabrication on Flock](https://www.objectnormal.com/projects/flock/)
 - [Research with Door into the Dark](https://www.theverge.com/2015/4/23/8477893/door-into-the-dark-anagram-interactive-art-tribeca-film-festival)
 
