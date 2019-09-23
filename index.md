@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Research and Data Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,13 +17,15 @@
 
 ---
 
-### Category Name 2
+### Immersive Media Collaborations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Production with Vrai Pictures](https://www.vrai.pictures/)
+- [Stage Management on the Gowanus Canal](http://drearycoast.org)
+- [Research with Holojam in Wonderland](https://futureofstorytelling.org/project/holojam-in-wonderland)
+- [Fabrication on Flock](https://www.objectnormal.com/projects/flock/)
+- [Research with Door into the Dark](https://www.theverge.com/2015/4/23/8477893/door-into-the-dark-anagram-interactive-art-tribeca-film-festival)
+
+
 
 ---
 
