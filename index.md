@@ -8,7 +8,7 @@
 <img src="images/Clust3.jpg?raw=true"/>
 
 ---
-[Mapping Ticket Sales in Brooklyn](/mapping)
+[The Dreary Coast: Imagining the Gowanus Canal](/mapping)
 <img src="images/map_legend.jpg?raw=true"/>
 
 ---
