@@ -26,7 +26,7 @@ Players have to feed 20 aliens per level; perhaps we can use information about t
 
 <img src="images/CombinedLevels.png?raw=true"/>
 
-In this iteration of our tests, putting aside some anomalous responses in Level 1, it looks like we can describe 3 'types' of players. One group, Latent Class 3 in blue, tends to improve their performance over the level, Latent class 2 in green may start making mistakes as the level goes on; and Latent Class 1 tends to perform steadily across each level.
+In this iteration of our tests, putting aside some anomalous responses in Level 1, it looks like we can describe 3 'types' of players. One group, Latent Class 3 in blue, tends to improve their performance over the level, Latent Class 2 in green may start making mistakes as the level goes on; and Latent Class 1 tends to perform steadily across each level.
 
 
 ### 3. Is Game Performance Related to Executive Function?
@@ -40,6 +40,6 @@ However, when we also look at which 'class' each player belonged to, it looks li
 
 ### 4. Ongoing Questions
 
-A version of this work was presented at the [2018 Subway Summit] (https://www.tc.columbia.edu/human-development/news/stories/hud-subway-summit/).
+This dataset is a toy example for ongoing work in the CREATE Lab. We are measuring different groups of students, different games, and different executive function skills to better understand why we see certain patterns of engagement with games for learning, and how those patterns of play may be related to improving executive function skills.
 
-This dataset is a toy example for ongoing work in the CREATE Lab. We are measuring different groups of students, different games, and different executive function skills to better understand why we see certain patterns of engagement with games for learning, and why some participants benefit more than others.
+A version of this work was presented at the [2018 Subway Summit] (https://www.tc.columbia.edu/human-development/news/stories/hud-subway-summit/).
