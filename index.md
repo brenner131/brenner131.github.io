@@ -8,11 +8,11 @@
 <img src="images/Clust3.jpg?raw=true"/>
 
 ---
-[Mapping Ticket Sales in Brooklyn](/sample_page)
+[Mapping Ticket Sales in Brooklyn](/mapping)
 <img src="images/map_legend.jpg?raw=true"/>
 
 ---
-[Visitor Research at the Brooklyn Museum](/sample_page)
+[Visitor Research at the Brooklyn Museum](/museum)
 <img src="images/TimeViewingPanels.png?raw=true"/>
 
 ---
@@ -34,5 +34,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
