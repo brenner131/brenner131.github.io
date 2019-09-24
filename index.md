@@ -4,7 +4,7 @@
 
 ### Research and Data Projects 
 
-[Using Clustering Methods to Characterize Player Types for Executive Function Training Games](/sample_page)
+[Using Clustering Methods to Characterize Player Types for Executive Function Training Games](/clustering)
 <img src="images/Clust3.jpg?raw=true"/>
 
 ---
