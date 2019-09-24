@@ -2,7 +2,7 @@
 
 **Project description:** The Brooklyn Museum periodically studies how visitors are using its resources. Between December 2014 and April 2015, I assisted in an evaluation of the Brooklyn Museum's approach to labels to learn how visitors use the introductory panels, and what variables may affect how long visitors spend with the panels.
 
-Introductory panels are the big text at the entrans of the exhibit, for example the black text about Egúngún as seen in this image:
+You might have encountered introductory panels at the entrance of the exhibit. For example, the black text about Egúngún as seen in this image is introductory text:
 
 <img src="images/Egungun.jpg?raw=true"/>
 
