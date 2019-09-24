@@ -1,6 +1,7 @@
 ## The Dreary Coast: Imagining the Gowanus Canal
 
 **Project description:** [The Dreary Coast](https://www.nytimes.com/2014/10/31/theater/the-dreary-coast-on-the-banks-of-the-gowanus-canal.html) was an immersive theater piece re-telling the Persephone myth in and around the Gowanus Canal. 
+
 <img src="images/photo-main.jpg?raw=true"/>
 
 Audience members could experience the show from a seat on a skiff piloted by Charon (the ferryman of Hades), or from vantage points on shore, depending on the type of ticket they had purchased.
