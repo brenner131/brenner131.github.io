@@ -6,7 +6,7 @@ In the game, players have to feed hungry aliens either cupcakes or milkshakes --
 
 <img src="images/AYCET_Demo.png?raw=true"/>
 
-But when we look at the change in switching before and after playing the game, not everyone who plays the game seems to improve. Previous analyses focused on changes in the executive function measure and age of the players, but that did not totally describe the pattern of results. 
+But when we look at scores for switching skill before and after playing the game, not everyone seems to improve. Previous analyses focused on changes in the executive function measure and age of the players, but those analyses did not totally describe the pattern of results. 
 
 To help figure out why gameplay seems to affect some players, but not others, we wanted to see if there are any patterns in the way players approach and play the game. We would expect players who get better at the game to also improve in the switching skill we see afterwards.
 
