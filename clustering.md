@@ -1,6 +1,6 @@
 ## Using Clustering Methods to Characterize Player Types for Executive Function Training Games
 
-**Project description:** The [CREATE Lab](https://create.nyu.edu) at NYU studies how digital games can be used to improve specific executive function skills like inhibition, switching, and working memory. The game "All You Can E.T." was designed to improve the executive function skill of switching. Switching ability is measured by a separate task, adminstered before starting the game, and after playing the last sessions.
+**Project description:** The [CREATE Lab](https://create.nyu.edu) at NYU studies how digital games can be used to improve specific executive function skills like [inhibition, switching, and working memory](https://www.sciencedirect.com/science/article/pii/S001002859990734X). The game "All You Can E.T." was designed to improve the executive function skill of switching. Switching ability is measured by a separate task, adminstered before starting the game, and after playing the last sessions.
 
 In the game, players have to feed hungry aliens either cupcakes or milkshakes -- but the aliens' preferences keep changing. As the rules switch and become more complicated, players hone their ability to 'switch' between rule sets.
 
