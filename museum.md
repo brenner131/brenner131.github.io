@@ -1,6 +1,6 @@
 ## Visitor Research at the Brooklyn Museum
 
-**Project description:** The Brooklyn Museum periodically studies how visitors are using its resources. Between December 2014 and April 2015, I assisted in an evaluation of the Brooklyn Museum's approach to labels to learn how visitors use the introductory panels, and what variables may affect how long visitors spend with the panels.
+**Project description:** The Brooklyn Museum periodically studies how visitors are using its resources. Between December 2014 and April 2015, I assisted in an evaluation of the Brooklyn Museum's use of text in introductory panels for a series of exhibits, and what variables may affect how long visitors spend with the panels.
 
 You might have encountered introductory panels at the entrance of the exhibit. For example, the black text about Egúngún as seen in this image is introductory text:
 
@@ -30,7 +30,7 @@ The vast majority of visitors in this sample were adults (2251, or 85% of this s
 Most visitors were part of a group, ranging from the 701 groups of 2 people (50% of the total sample) to a single group of 11 people (less than 1% of the sample). 477 individuals, or 34% of the groups in the sample, were visiting solo.
 <img src="images/GroupSize_color.jpg?raw=true"/>
 
-In this chart, we can get a sense of how much the time spent viewing the panel varied for each exhibition, and between different exhibitions. Each dot represents an individual. Each exhibition is represented along the X axis, and amount of time spent viewing the introductory panel is represented by the Y axis – the higher up the dot, the longer the person viewed the panel. Where the dots are clustered indicates more visitors reading for the same amount of time.
+In the chart above, we can get a sense of how much the time spent viewing the panel varied for each exhibition, and between different exhibitions. Each dot represents an individual. Each exhibition is represented along the X axis, and amount of time spent viewing the introductory panel is represented by the Y axis – the higher up the dot, the longer the person viewed the panel. Where the dots are clustered indicates more visitors reading for the same amount of time.
 <img src="images/TimeViewingPanels.png?raw=true"/>
 
 For both the Permanent Collection and Special Exhibitions, a little more than half of the visitors ignored the panel. Visitors were more likely to show a brief, “Orient” response (less than 5 seconds) to the Permanent Collection panels than for the Special Exhibition panels, but were more likely to view the Special Exhibition panels for longer, landing in the “Discover” and “Immerse” categories (30 seconds or longer).
